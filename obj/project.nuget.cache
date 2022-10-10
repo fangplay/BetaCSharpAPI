@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "522ZvZzXDSpyKLC58injtjujTPzJSMi7/Cj9xB4/TmkTn45kyOlN9tQsxIHbV+lziZtLMeevqcAWRLEgmeo1Qw==",
+  "success": true,
+  "projectFilePath": "D:\\back-end-dev\\BetaC#API\\BetaC#API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\FANGPLAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
